@@ -9,6 +9,6 @@
 <p> Итоги:
 
 <p> Итог №1. В результате создана  CTE с вычисленными балансами каждого студента 
-  (1 Modelling_Changing_balances). 
+<p> (1 Modelling_Changing_balances). 
   
 <p> Итог №2. Создана визуализация балансов студентов (2 Visualization code, 3 ).
